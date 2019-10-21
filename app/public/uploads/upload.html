@@ -1,0 +1,12 @@
+<html>
+    <head>
+        <title>上传图片</title>
+    </head>
+    <body>
+        <form action="/upload" enctype="multipart/form-data" method="post">
+            <!-- 限制图片类型 image/*支持所有类型 -->
+            <input type="file" name="file" accept=".png, .jpg, image/*">
+            <button type="submit">上传</button>
+        </form>
+    </body>
+</html>

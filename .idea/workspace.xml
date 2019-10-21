@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4c58efce-b12d-4b6c-88df-14e1b7e6d780" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1S88d7BJFUbuoOvubdP04u5kcBk" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../react/demo-server" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="index.js" type="NodeJSConfigurationType" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/app/index.js" working-dir="$PROJECT_DIR$/app">
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4c58efce-b12d-4b6c-88df-14e1b7e6d780" name="Default Changelist" comment="" />
+      <created>1570933946246</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1570933946246</updated>
+      <workItem from="1570933947346" duration="12221000" />
+      <workItem from="1570964114432" duration="43000" />
+      <workItem from="1571114742707" duration="701000" />
+      <workItem from="1571115454683" duration="41000" />
+      <workItem from="1571116156970" duration="15571000" />
+      <workItem from="1571140271451" duration="58000" />
+      <workItem from="1571209600149" duration="6569000" />
+      <workItem from="1571223793268" duration="96000" />
+      <workItem from="1571292630923" duration="11198000" />
+      <workItem from="1571311383158" duration="12000" />
+      <workItem from="1571462139378" duration="12633000" />
+      <workItem from="1571636777507" duration="3796000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="NodeJSConfigurationType">
+        <watch expression="ctx.origin" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
